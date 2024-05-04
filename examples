@@ -22,3 +22,18 @@
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	filme	filme	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	_	_	4	punct	_	_
+
+# text = O presidente disse que não convém inovar onde não é preciso.
+# text = Eles reclamaram no SAC de atraso nas entregas.
+# text = A mãe não lhe contou nada sobre seu passado.
+# text = Todos querem acabar com essa história.
+# text = Eles temiam que os denunciássemos à justiça.
+# text = Cansei de perder oportunidades.
+# text = O ministro reclamou de que suas falas foram mal interpretadas.
+# text = Aqui são feitas regularmente várias inspeções.
+# text = Eles foram presos por desacatar as autoridades.
+# text = Os coordenadores selecionaram os três mais relevantes trabalhos de TCC.
+# text = Fernando Henrique, ex-presidente do Brasil, compareceu à sessão.
+# text = O presidente Fernando Henrique compareceu à sessão.
+# text = Eu sei que tô lascado, todo dia tem um processo.
+# text = É agora que a coisa complica.
