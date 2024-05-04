@@ -1,0 +1,24 @@
+# conllu format using SpaceAfter=No
+# text = Comi.
+1	Comi	comer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+# conllu format using SpaceAfter=No
+# text = O aluno dormiu.
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	aluno	aluno	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	dormiu	dormir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+# conllu format using SpaceAfter=No
+# text = O estúdio também divulgou novo poster de o filme.
+1	O	O	DET	_	Definite=Def|Gender=Masc|Number= Sing|PronType=Art	2	det	_	_
+2	estúdio	estúdio	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	também	também	ADV	_	_	4	advmod	_	_
+4	divulgou	divulgar	VERB	—	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	novo	novo	ADJ	_	Gender=Masc|Number= Sing	6	amod	_	_
+6	poster	poster	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	filme	filme	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
