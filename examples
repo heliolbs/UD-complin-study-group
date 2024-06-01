@@ -1,9 +1,11 @@
 # conllu format using SpaceAfter=No
+# sent_id = example_01
 # text = Comi.
 1	Comi	comer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 # conllu format using SpaceAfter=No
+# sent_id = example_02
 # text = O aluno dormiu.
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	aluno	aluno	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -11,6 +13,8 @@
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # conllu format using SpaceAfter=No
+# sent_id = example_03
+# text_source = Duran2022-Tabela-01
 # text = O estúdio também divulgou novo poster de o filme.
 1	O	O	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	estúdio	estúdio	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -23,17 +27,72 @@
 9	filme	filme	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	_	_	4	punct	_	_
 
+# conllu format using SpaceAfter=No
+# sent_id = example_04
+# text_source = Duran2022-Figura-03
 # text = O presidente disse que não convém inovar onde não é preciso.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_05
+# text_source = Duran2022-Figura-04
 # text = Eles reclamaram no SAC de atraso nas entregas.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_06
+# text_source = Duran2022-Figura-05
 # text = A mãe não lhe contou nada sobre seu passado.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_07
+# text_source = Duran2022-Figura-06
 # text = Todos querem acabar com essa história.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_08
+# text_source = Duran2022-Figura-07
 # text = Eles temiam que os denunciássemos à justiça.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_09
+# text_source = Duran2022-Figura-08
 # text = Cansei de perder oportunidades.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_10
+# text_source = Duran2022-Figura-09
 # text = O ministro reclamou de que suas falas foram mal interpretadas.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_11
+# text_source = Duran2022-Figura-10
 # text = Aqui são feitas regularmente várias inspeções.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_12
+# text_source = Duran2022-Figura-11
 # text = Eles foram presos por desacatar as autoridades.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_13
+# text_source = Duran2022-Figura-12
 # text = Os coordenadores selecionaram os três mais relevantes trabalhos de TCC.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_14
+# text_source = Duran2022-Figura-13
 # text = Fernando Henrique, ex-presidente do Brasil, compareceu à sessão.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_15
+# text_source = Duran2022-Figura-14
 # text = O presidente Fernando Henrique compareceu à sessão.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_16
+# text_source = Duran2022-Figura-15
 # text = Eu sei que tô lascado, todo dia tem um processo.
+
+# conllu format using SpaceAfter=No
+# sent_id = example_17
+# text_source = Duran2022-Figura-16
 # text = É agora que a coisa complica.
