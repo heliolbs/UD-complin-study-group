@@ -31,6 +31,18 @@
 # sent_id = example_04
 # text_source = Duran2022-Figura-03
 # text = O presidente disse que não convém inovar onde não é preciso.
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	3	 nsubj	_	_
+3	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	não	não	ADV	_	_	6	advmod	_	_
+6	convém	convir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	inovar	inovar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	6	csubj	_	_
+8	onde	onde	ADV	_	PronType=Rel	11	advmod	_	_
+9	não	não	ADV	_	_	11	advmod	_	_
+10	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	preciso	preciso	ADJ	_	Gender=Masc|Number=Sing	7	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 # conllu format using SpaceAfter=No
 # sent_id = example_05
